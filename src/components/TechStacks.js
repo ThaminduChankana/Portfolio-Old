@@ -48,6 +48,7 @@ export const TechStacks = () => {
 	return (
 		<section className="techstack" id="techstacks">
 			<div className="container">
+				<br></br><br></br><br></br>
 				<div className="techstack-bx wow zoomIn">
 					<h2>Programming Languages and Frameworks</h2>
 					<br></br>

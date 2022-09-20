@@ -31,11 +31,9 @@ body {
 	font-weight: 400;
 	overflow-x: hidden;
 	position: relative;
-	background-size: cover;
 	color: #fff !important;
 	font-family: "Centra", sans-serif !important;
-	background-image: url("https://res.cloudinary.com/dllpluvl8/image/upload/v1663617215/Portfolio/wallpaperflare.com_wallpaper_tyu7nn.jpg");
-	background-repeat: no-repeat;
+	
 }
 
 h1,
@@ -248,6 +246,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .banner {
 	margin-top: 0;
 	padding: 260px 0 100px 0;
+	background-size: auto;
+	background-image: url("https://res.cloudinary.com/dllpluvl8/image/upload/v1663617215/Portfolio/wallpaperflare.com_wallpaper_tyu7nn.jpg");
+	background-repeat: no-repeat;
 }
 .banner .tagline {
 	font-weight: 700;
@@ -321,6 +322,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .skill {
 	padding: 0 0 50px 0;
 	position: relative;
+	background-size: auto;
+	background-image: url("https://res.cloudinary.com/dllpluvl8/image/upload/v1663617215/Portfolio/wallpaperflare.com_wallpaper_tyu7nn.jpg");
+	background-repeat: no-repeat;
 }
 .skill-bx {
 	background: #151515;
@@ -363,13 +367,15 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .techstack {
 	padding: 0 0 50px 0;
 	position: relative;
+	background-size:auto;
+	background-image: url("https://res.cloudinary.com/dllpluvl8/image/upload/v1663617215/Portfolio/wallpaperflare.com_wallpaper_tyu7nn.jpg");
+	background-repeat: no-repeat;
 }
 .techstack-bx {
 	background: #151515;
 	border-radius: 64px;
 	text-align: center;
 	padding: 60px 50px;
-	margin-top: 60px;
 	border-style: groove;
 	border-color: #ffffff;
 	background-size: relative;
