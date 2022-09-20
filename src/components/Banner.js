@@ -87,17 +87,19 @@ export const Banner = () => {
 							</TrackVisibility>
 						</Col>
 						<Col xs={12} md={6} xl={5}>
-							<TrackVisibility>
-								{({ isVisible }) => (
-									<div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
-										<img
-											id="picture"
-											src="https://res.cloudinary.com/dllpluvl8/image/upload/v1663609792/Portfolio/IMG_0002_lre7xv.jpg"
-											alt="pic"
-										/>
-									</div>
-								)}
-							</TrackVisibility>
+							<center>
+								<TrackVisibility>
+									{({ isVisible }) => (
+										<div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
+											<img
+												id="picture"
+												src="https://res.cloudinary.com/dllpluvl8/image/upload/v1663609792/Portfolio/IMG_0002_lre7xv.jpg"
+												alt="pic"
+											/>
+										</div>
+									)}
+								</TrackVisibility>
+							</center>
 							<br></br>
 						</Col>
 					</Row>
