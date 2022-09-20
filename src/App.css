@@ -407,6 +407,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .achievement {
 	padding: 0 0 50px 0;
 	position: relative;
+	background-size: cover;
 	background: linear-gradient(90.21deg, rgb(19, 79, 90) -5.91%, rgb(132, 131, 139) 111.58%);
 }
 .achievement-bx {
@@ -450,6 +451,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .project {
 	padding: 80px 0;
 	position: relative;
+	background-size: cover;
 	background-color: black;
 }
 .project h2 {
@@ -575,7 +577,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /************ Projects Css ************/
 .contact {
 	background: linear-gradient(90.21deg, #18d9f3 -5.91%, #231464 111.58%);
-	padding: 60px 0 200px 0;
+	padding: 60px 0 75px 0;
+	background-size: cover;
 }
 .contact img {
 	width: 92%;
@@ -638,7 +641,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /************ Footer Css ************/
 .footer {
 	padding: 0 0 50px 0;
-	background-image: url("https://res.cloudinary.com/dllpluvl8/image/upload/v1663607812/Portfolio/network-3357642_t5pmuu.jpg");
+	background-image: url("https://res.cloudinary.com/dllpluvl8/image/upload/v1663612061/Portfolio/communication-4871207_sx1dh4.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;

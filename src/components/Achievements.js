@@ -1,9 +1,9 @@
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import "react-multi-carousel/lib/styles.css";
 import "react-appear-on-scroll/dist/index.css";
-import { AppearingContainer} from "react-appear-on-scroll";
+import { AppearingContainer } from "react-appear-on-scroll";
 import "react-appear-on-scroll/dist/index.css";
-import {  Row } from "react-bootstrap";
+import { Row } from "react-bootstrap";
 
 export const Achievements = () => {
 	return (

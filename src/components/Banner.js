@@ -79,6 +79,9 @@ export const Banner = () => {
 												Let’s Connect <ArrowRightCircle size={35} />
 											</button>
 										</HashLink>
+										<Button variant="info" size="lg" style={{ fontSize: 20, marginTop: 25 }} href={cv}>
+											View My CV
+										</Button>
 									</div>
 								)}
 							</TrackVisibility>
@@ -86,22 +89,16 @@ export const Banner = () => {
 						<Col xs={12} md={6} xl={5}>
 							<TrackVisibility>
 								{({ isVisible }) => (
-									<center>
-										<div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
-											<Image
-												id="picture"
-												src="https://res.cloudinary.com/dllpluvl8/image/upload/v1663609792/Portfolio/IMG_0002_lre7xv.jpg"
-											/>
-										</div>
-									</center>
+									<div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
+										<img
+											id="picture"
+											src="https://res.cloudinary.com/dllpluvl8/image/upload/v1663609792/Portfolio/IMG_0002_lre7xv.jpg"
+											alt="pic"
+										/>
+									</div>
 								)}
 							</TrackVisibility>
 							<br></br>
-							<center>
-								<Button variant="info" size="lg" style={{ fontSize: 20 }} href={cv}>
-									View My CV
-								</Button>
-							</center>
 						</Col>
 					</Row>
 				</Container>
