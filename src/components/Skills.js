@@ -29,7 +29,6 @@ export const Skills = () => {
 
 	return (
 		<section className="skill" id="skills">
-			<br></br>
 			<div className="container">
 				<div className="row">
 					<div className="col-12">
@@ -90,7 +89,6 @@ export const Skills = () => {
 					</div>
 				</div>
 			</div>
-			<br></br>
 		</section>
 	);
 };
