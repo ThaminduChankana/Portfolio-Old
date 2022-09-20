@@ -1,6 +1,7 @@
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import "react-multi-carousel/lib/styles.css";
 import "react-appear-on-scroll/dist/index.css";
+import star from "../assets/img/star.svg";
 import { AppearingContainer } from "react-appear-on-scroll";
 import "react-appear-on-scroll/dist/index.css";
 import { Row } from "react-bootstrap";
@@ -94,6 +95,12 @@ export const Achievements = () => {
 							</center>
 						</div>
 						<br></br>
+						<br></br>
+						<center>
+							<img src={star} alt="star" style={{ width: "2%" }}></img>
+							<img src={star} alt="star" style={{ width: "2%" }}></img>
+							<img src={star} alt="star" style={{ width: "2%" }}></img>
+						</center>
 						<br></br>
 
 						<h3>Please visit my LinkedIn profile to get the updated details of my achievements...</h3>

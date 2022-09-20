@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Container, Row, Col, Image, Button } from "react-bootstrap";
+import { Container, Row, Col, Button } from "react-bootstrap";
 import { HashLink } from "react-router-hash-link";
 import { ArrowRightCircle } from "react-bootstrap-icons";
 import "animate.css";
@@ -91,6 +91,7 @@ export const Banner = () => {
 								<TrackVisibility>
 									{({ isVisible }) => (
 										<div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
+											<br></br>
 											<img
 												id="picture"
 												src="https://res.cloudinary.com/dllpluvl8/image/upload/v1663609792/Portfolio/IMG_0002_lre7xv.jpg"
@@ -100,7 +101,6 @@ export const Banner = () => {
 									)}
 								</TrackVisibility>
 							</center>
-							<br></br>
 						</Col>
 					</Row>
 				</Container>
