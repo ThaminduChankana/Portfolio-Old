@@ -406,7 +406,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /*Achievements*/
 
 .achievement {
-	padding: 0 0 50px 0;
+	padding: 0 10px 50px 10px;
 	position: relative;
 	background-size: cover;
 	background: linear-gradient(90.21deg, rgb(19, 79, 90) -5.91%, rgb(132, 131, 139) 111.58%);
