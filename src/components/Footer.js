@@ -31,6 +31,7 @@ export const Footer = () => {
 						</div>
 					</Col>
 				</Row>
+				<br></br>
 				<Row>
 					<center>
 						<h5>@All Rights Reserved 2022</h5>
