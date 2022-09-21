@@ -20,7 +20,7 @@ export const Achievements = () => {
 						<br></br>
 						<div>
 							<center>
-								<AppearingContainer style={{ width: "100%" }}>
+								<AppearingContainer animationType="scale" transitionType="bouncy" fading>
 									<h5>
 										<svg
 											width="1em"

@@ -29,8 +29,12 @@ export const Footer = () => {
 								<img src={navIcon3} alt="" />
 							</a>
 						</div>
-						<p>Copyright 2022. All Rights Reserved</p>
 					</Col>
+				</Row>
+				<Row>
+					<center>
+						<h5>@All Rights Reserved 2022</h5>
+					</center>
 				</Row>
 			</Container>
 		</footer>

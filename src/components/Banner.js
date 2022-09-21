@@ -76,7 +76,8 @@ export const Banner = () => {
 
 										<HashLink to="#connect" style={{ textDecoration: "none" }}>
 											<button style={{ fontSize: 20 }}>
-												Connect With Me<ArrowRightCircle size={35} />
+												Connect With Me
+												<ArrowRightCircle size={35} />
 											</button>
 										</HashLink>
 										<Button variant="info" size="lg" style={{ fontSize: 20, marginTop: 25 }} href={cv}>
