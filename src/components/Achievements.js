@@ -20,8 +20,8 @@ export const Achievements = () => {
 						<br></br>
 						<div>
 							<center>
-								<AppearingContainer style={{ width: "100%" }}>
-									<h5>
+								<AppearingContainer>
+									<h5 style={{ width: "100%", padding: "0 10px 0 10px" }}>
 										<svg
 											width="1em"
 											height="1em"
@@ -38,8 +38,8 @@ export const Achievements = () => {
 										&nbsp;Deans List Award for Year 1 Semester 1
 									</h5>
 								</AppearingContainer>
-								<AppearingContainer style={{ width: "100%" }}>
-									<h5>
+								<AppearingContainer>
+									<h5 style={{ width: "100%", padding: "0 10px 0 10px" }}>
 										<svg
 											width="1em"
 											height="1em"
@@ -56,8 +56,8 @@ export const Achievements = () => {
 										&nbsp;Deans List Award for Year 1 Semester 2
 									</h5>
 								</AppearingContainer>
-								<AppearingContainer style={{ width: "100%" }}>
-									<h5>
+								<AppearingContainer>
+									<h5 style={{ width: "100%", padding: "0 10px 0 10px" }}>
 										<svg
 											width="1em"
 											height="1em"
@@ -74,8 +74,8 @@ export const Achievements = () => {
 										&nbsp;Deans List Award for Year 2 Semester 1
 									</h5>
 								</AppearingContainer>
-								<AppearingContainer style={{ width: "100%" }}>
-									<h5>
+								<AppearingContainer>
+									<h5 style={{ width: "100%", padding: "0 10px 0 10px" }}>
 										<svg
 											width="1em"
 											height="1em"
