@@ -31,8 +31,10 @@ body {
 	font-weight: 400;
 	overflow-x: hidden;
 	position: relative;
+	background-size: cover;
 	color: #fff !important;
 	font-family: "Centra", sans-serif !important;
+	background: linear-gradient(90.21deg, rgb(20, 22, 22) -5.91%, rgb(11, 48, 54) 111.58%);
 }
 
 h1,
@@ -90,11 +92,6 @@ p.success {
 
 p.danger {
 	color: red;
-}
-.background {
-	background-image: url("https://res.cloudinary.com/dllpluvl8/image/upload/v1664300969/Portfolio/alessandro-bianchi-_kdTyfnUFAc-unsplash_jeczvu.jpg");
-	background-repeat: no-repeat;
-	background-size:cover;
 }
 
 /*Navbar*/

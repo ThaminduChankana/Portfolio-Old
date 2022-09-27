@@ -12,12 +12,10 @@ import { Achievements } from "./components/Achievements";
 function App() {
 	return (
 		<div className="App">
-			<div className="background">
-				<NavBar />
-				<Banner />
-				<Skills />
-				<TechStacks />
-			</div>
+			<NavBar />
+			<Banner />
+			<Skills />
+			<TechStacks />
 			<Projects />
 			<Achievements />
 			<Contact />
