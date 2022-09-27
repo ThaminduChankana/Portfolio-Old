@@ -31,11 +31,8 @@ body {
 	font-weight: 400;
 	overflow-x: hidden;
 	position: relative;
-	background-size: cover;
 	color: #fff !important;
 	font-family: "Centra", sans-serif !important;
-	background-image: url("https://res.cloudinary.com/dllpluvl8/image/upload/v1663617215/Portfolio/wallpaperflare.com_wallpaper_tyu7nn.jpg");
-	background-repeat: no-repeat;
 }
 
 h1,
@@ -93,6 +90,11 @@ p.success {
 
 p.danger {
 	color: red;
+}
+.background {
+	background-image: url("https://res.cloudinary.com/dllpluvl8/image/upload/v1663617215/Portfolio/wallpaperflare.com_wallpaper_tyu7nn.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 /*Navbar*/
