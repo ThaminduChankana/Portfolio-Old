@@ -18,7 +18,7 @@ export const Extra = () => {
 					<div className=" extra-bx wow zoomIn" style={{ height: "auto" }}>
 						<h2>Extra Curricular Activities</h2>
 						<br></br>
-                        <br></br>
+						<br></br>
 
 						<div>
 							<center>
@@ -42,7 +42,7 @@ export const Extra = () => {
 										</h5>
 									</div>
 								</AppearingContainer>
-                                <br></br>
+								<br></br>
 								<AppearingContainer>
 									<div>
 										<h5 style={{ width: "100%", padding: "0 10px 0 10px" }}>
@@ -63,7 +63,7 @@ export const Extra = () => {
 										</h5>
 									</div>
 								</AppearingContainer>
-                                <br></br>
+								<br></br>
 								<AppearingContainer>
 									<div>
 										<h5 style={{ width: "100%", padding: "0 10px 0 10px" }}>
