@@ -8,6 +8,7 @@ import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
 import { TechStacks } from "./components/TechStacks";
 import { Achievements } from "./components/Achievements";
+import { Extra } from "./components/Extra";
 
 function App() {
 	return (
@@ -18,6 +19,7 @@ function App() {
 			<TechStacks />
 			<Projects />
 			<Achievements />
+			<Extra />
 			<Contact />
 			<Footer />
 		</div>
