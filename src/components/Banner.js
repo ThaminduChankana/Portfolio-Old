@@ -74,6 +74,10 @@ export const Banner = () => {
 											in research and development as well as Machine Learning and Artificial Intelligence...
 										</p>
 
+										<br></br>
+
+										<p>I am currently working as an Intern Software Engineer at LSEG Technologies Sri Lanka</p>
+
 										<HashLink to="#connect" style={{ textDecoration: "none" }}>
 											<button style={{ fontSize: 20 }}>
 												Connect With Me
