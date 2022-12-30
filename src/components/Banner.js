@@ -5,7 +5,7 @@ import { ArrowRightCircle } from "react-bootstrap-icons";
 import "animate.css";
 import { BrowserRouter as Router } from "react-router-dom";
 import TrackVisibility from "react-on-screen";
-import cv from "../../src/assets/docs/Thamindu Gamage CV.pdf";
+import cv from "../../src/assets/docs/Thamindu Gamage CV - Personal.pdf";
 
 export const Banner = () => {
 	const [loopNum, setLoopNum] = useState(0);
