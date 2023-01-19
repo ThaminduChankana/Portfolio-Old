@@ -24,7 +24,7 @@ export const Extra = () => {
 							<center>
 								<AppearingContainer>
 									<div>
-										<h5 style={{ width: "100%", padding: "0 10px 0 10px", marginTop:10 }}>
+										<h5 style={{ width: "100%", padding: "0 10px 0 10px", marginTop: 10 }}>
 											<svg
 												width="1em"
 												height="1em"
@@ -45,7 +45,7 @@ export const Extra = () => {
 								<br></br>
 								<AppearingContainer>
 									<div>
-										<h5 style={{ width: "100%", padding: "0 10px 0 10px", marginTop:10 }}>
+										<h5 style={{ width: "100%", padding: "0 10px 0 10px", marginTop: 10 }}>
 											<svg
 												width="1em"
 												height="1em"
@@ -66,7 +66,7 @@ export const Extra = () => {
 								<br></br>
 								<AppearingContainer>
 									<div>
-										<h5 style={{ width: "100%", padding: "0 10px 0 10px", marginTop:10 }}>
+										<h5 style={{ width: "100%", padding: "0 10px 0 10px", marginTop: 10 }}>
 											<svg
 												width="1em"
 												height="1em"
@@ -87,7 +87,7 @@ export const Extra = () => {
 								<br></br>
 								<AppearingContainer>
 									<div>
-										<h5 style={{ width: "100%", padding: "0 10px 0 10px", marginTop:10 }}>
+										<h5 style={{ width: "100%", padding: "0 10px 0 10px", marginTop: 10 }}>
 											<svg
 												width="1em"
 												height="1em"

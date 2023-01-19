@@ -18,6 +18,7 @@ import vs from "../assets/img/vs.svg";
 import android from "../assets/img/androidstudio.svg";
 import postman from "../assets/img/postman.svg";
 import git from "../assets/img/nav-icon4.svg";
+import docker from "../assets/img/docker.svg";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import "react-appear-on-scroll/dist/index.css";
@@ -219,6 +220,13 @@ export const TechStacks = () => {
 									<div className="item">
 										<img src={git} alt="git" />
 										<h5>GitHub</h5>
+									</div>
+								</Col>
+
+								<Col>
+									<div className="item">
+										<img src={docker} alt="docker" />
+										<h5>Docker</h5>
 									</div>
 								</Col>
 							</Carousel>
