@@ -76,7 +76,7 @@ export const Banner = () => {
 
 										<br></br>
 
-										<p>I am currently working as an Intern Software Engineer at LSEG Technologies Sri Lanka</p>
+										<p>I am currently working as an Associate Software Engineer at Epic Lanka Technologies</p>
 
 										<HashLink to="#connect" style={{ textDecoration: "none" }}>
 											<button style={{ fontSize: 20 }}>
