@@ -9,6 +9,7 @@ import { Footer } from "./components/Footer";
 import { TechStacks } from "./components/TechStacks";
 import { Achievements } from "./components/Achievements";
 import { Extra } from "./components/Extra";
+import { Experience } from "./components/Experience";
 
 function App() {
 	return (
@@ -16,6 +17,7 @@ function App() {
 			<NavBar />
 			<Banner />
 			<Skills />
+			<Experience />
 			<TechStacks />
 			<Projects />
 			<Achievements />

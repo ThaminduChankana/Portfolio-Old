@@ -32,7 +32,7 @@ export const Skills = () => {
 				<div className="row">
 					<div className="col-12">
 						<div className="skill-bx wow zoomIn">
-							<h2>Skills</h2>
+							<h1>Skills</h1>
 							<br></br>
 							<Carousel
 								responsive={responsive}
@@ -48,7 +48,7 @@ export const Skills = () => {
 										<h5>Web Development</h5>
 										<br></br>
 										<p>
-											create up-to-date, inventive websites that will <br></br> aid in your marketing efforts.
+											create up-to-date, inventive websites that will aid in your <br></br> marketing efforts.
 										</p>
 									</div>
 								</Col>
@@ -78,8 +78,8 @@ export const Skills = () => {
 										<h5>DevOps</h5>
 										<br></br>
 										<p>
-											Monitor the life cycle of the application development throughout the development process and
-											finally deliver a quality software product to the user.
+											Alignment of development and <br></br>IT operations with better <br></br>communication and
+											collaboration.
 										</p>
 									</div>
 								</Col>
