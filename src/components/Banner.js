@@ -5,7 +5,6 @@ import { ArrowRightCircle } from "react-bootstrap-icons";
 import "animate.css";
 import { BrowserRouter as Router } from "react-router-dom";
 import TrackVisibility from "react-on-screen";
-import cv from "../../src/assets/docs/Thamindu Gamage CV - Personal.pdf";
 
 export const Banner = () => {
 	const [loopNum, setLoopNum] = useState(0);
@@ -84,7 +83,7 @@ export const Banner = () => {
 												<ArrowRightCircle size={35} />
 											</button>
 										</HashLink>
-										<Button variant="info" size="lg" style={{ fontSize: 20, marginTop: 25 }} href={cv}>
+										<Button variant="info" size="lg" style={{ fontSize: 20, marginTop: 25 }}>
 											View My CV
 										</Button>
 									</div>
